@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3c6fb17-b39d-4fac-a38f-19f85c3c1e66" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="d3c6fb17-b39d-4fac-a38f-19f85c3c1e66" name="Default Changelist" comment="update self intro">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +13,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hrFLjpXYCVppNccDwXXYNcktEB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -21,7 +22,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../viscommentator" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -34,16 +35,53 @@
       <updated>1600761249973</updated>
       <workItem from="1600761251063" duration="71000" />
       <workItem from="1623728419682" duration="321000" />
+      <workItem from="1629191275313" duration="1391000" />
+      <workItem from="1629781248248" duration="3000" />
+      <workItem from="1633492547816" duration="31000" />
     </task>
+    <task id="LOCAL-00001" summary="update TIVEE">
+      <created>1629191480717</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629191480717</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update VisCommentator">
+      <created>1629191550717</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1629191550717</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update self intro">
+      <created>1629192580830</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1629192580830</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="2981" y="-609" key="FileChooserDialogImpl" timestamp="1600761320843">
-      <screen x="1920" y="-1065" width="2560" height="1413" />
-    </state>
-    <state x="2981" y="-609" key="FileChooserDialogImpl/1920.-1065.2560.1413/0.0.1920.1040@1920.-1065.2560.1413" timestamp="1600761320843" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update TIVEE" />
+    <MESSAGE value="update VisCommentator" />
+    <MESSAGE value="update self intro" />
+    <option name="LAST_COMMIT_MESSAGE" value="update self intro" />
   </component>
 </project>
