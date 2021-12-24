@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3c6fb17-b39d-4fac-a38f-19f85c3c1e66" name="Default Changelist" comment="update self intro">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d3c6fb17-b39d-4fac-a38f-19f85c3c1e66" name="Default Changelist" comment="bold span" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +20,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../viscommentator" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -38,6 +37,7 @@
       <workItem from="1629191275313" duration="1391000" />
       <workItem from="1629781248248" duration="3000" />
       <workItem from="1633492547816" duration="31000" />
+      <workItem from="1640060601105" duration="532000" />
     </task>
     <task id="LOCAL-00001" summary="update TIVEE">
       <created>1629191480717</created>
@@ -60,7 +60,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629192580830</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="bold span">
+      <created>1640060712625</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1640060712625</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +89,7 @@
     <MESSAGE value="update TIVEE" />
     <MESSAGE value="update VisCommentator" />
     <MESSAGE value="update self intro" />
-    <option name="LAST_COMMIT_MESSAGE" value="update self intro" />
+    <MESSAGE value="bold span" />
+    <option name="LAST_COMMIT_MESSAGE" value="bold span" />
   </component>
 </project>
