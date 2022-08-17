@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3c6fb17-b39d-4fac-a38f-19f85c3c1e66" name="Default Changelist" comment="bold span" />
+    <list default="true" id="d3c6fb17-b39d-4fac-a38f-19f85c3c1e66" name="Default Changelist" comment="delete phone">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/avatar.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csu.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/csu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/researcher.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/sass/researcher.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shuttlespace.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/shuttlespace.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zju.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/zju.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +34,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Projects\Web\HomePage\images" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,6 +53,10 @@
       <workItem from="1629781248248" duration="3000" />
       <workItem from="1633492547816" duration="31000" />
       <workItem from="1640060601105" duration="532000" />
+      <workItem from="1640323275902" duration="370000" />
+      <workItem from="1640328679956" duration="135000" />
+      <workItem from="1640934046118" duration="30000" />
+      <workItem from="1658991355423" duration="332000" />
     </task>
     <task id="LOCAL-00001" summary="update TIVEE">
       <created>1629191480717</created>
@@ -67,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640060712625</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="delete phone">
+      <created>1640323313683</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1640323313683</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +116,7 @@
     <MESSAGE value="update VisCommentator" />
     <MESSAGE value="update self intro" />
     <MESSAGE value="bold span" />
-    <option name="LAST_COMMIT_MESSAGE" value="bold span" />
+    <MESSAGE value="delete phone" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete phone" />
   </component>
 </project>
