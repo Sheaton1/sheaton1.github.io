@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3c6fb17-b39d-4fac-a38f-19f85c3c1e66" name="Default Changelist" comment="update image and introduction">
+    <list default="true" id="d3c6fb17-b39d-4fac-a38f-19f85c3c1e66" name="Default Changelist" comment="update paper">
+      <change afterPath="$PROJECT_DIR$/images/self.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/avatar.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,12 +27,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/Projects/Web/HomePage",
+    "last_opened_file_path": "P:/Web/HomePage/images",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="P:\Web\HomePage\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Projects\Web\HomePage\images" />
     </key>
@@ -56,7 +61,8 @@
       <workItem from="1658991355423" duration="332000" />
       <workItem from="1660716121375" duration="1648000" />
       <workItem from="1662455082754" duration="258000" />
-      <workItem from="1666596736254" duration="503000" />
+      <workItem from="1666596736254" duration="1484000" />
+      <workItem from="1687147143198" duration="502000" />
     </task>
     <task id="LOCAL-00001" summary="update TIVEE">
       <created>1629191480717</created>
@@ -100,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660716336733</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update paper">
+      <created>1666597261587</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666597261587</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +137,7 @@
     <MESSAGE value="bold span" />
     <MESSAGE value="delete phone" />
     <MESSAGE value="update image and introduction" />
-    <option name="LAST_COMMIT_MESSAGE" value="update image and introduction" />
+    <MESSAGE value="update paper" />
+    <option name="LAST_COMMIT_MESSAGE" value="update paper" />
   </component>
 </project>
