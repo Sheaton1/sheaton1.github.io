@@ -2,6 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3c6fb17-b39d-4fac-a38f-19f85c3c1e66" name="Default Changelist" comment="update avatar">
+      <change afterPath="$PROJECT_DIR$/assets/css/publications-no-dark-mode.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/publications.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/style-no-dark-mode.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/files/CV_of_Xiangtong.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/files/curriculum_vitae.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/favicon-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/teaser_example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/teaser_example_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/favicon-switcher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/scale.fix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index_2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,20 +35,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "P:/Web/HomePage",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;P:/Web/HomePage/assets/img&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="P:\Web\HomePage\assets\img" />
+      <recent name="P:\Web\HomePage\assets\files" />
+      <recent name="P:\Web\HomePage" />
       <recent name="P:\Web\HomePage\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="P:\Web\HomePage\images" />
       <recent name="E:\Projects\Web\HomePage\images" />
     </key>
   </component>
@@ -61,7 +79,12 @@
       <workItem from="1666596736254" duration="1484000" />
       <workItem from="1687147143198" duration="717000" />
       <workItem from="1687319652614" duration="23000" />
-      <workItem from="1698752143546" duration="305000" />
+      <workItem from="1698752143546" duration="869000" />
+      <workItem from="1698812383959" duration="127000" />
+      <workItem from="1703142761693" duration="645000" />
+      <workItem from="1703150147998" duration="5645000" />
+      <workItem from="1703228368481" duration="25000" />
+      <workItem from="1703924348908" duration="14238000" />
     </task>
     <task id="LOCAL-00001" summary="update TIVEE">
       <created>1629191480717</created>
@@ -119,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687147736603</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update avatar">
+      <created>1698752467612</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698752467612</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
