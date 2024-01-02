@@ -36,6 +36,7 @@
       <recent name="P:\Web\HomePage\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="P:\Web\HomePage\assets\files" />
       <recent name="P:\Web\HomePage\images" />
       <recent name="E:\Projects\Web\HomePage\images" />
     </key>
@@ -69,7 +70,7 @@
       <workItem from="1703150147998" duration="5645000" />
       <workItem from="1703228368481" duration="25000" />
       <workItem from="1703924348908" duration="14559000" />
-      <workItem from="1704180048360" duration="776000" />
+      <workItem from="1704180048360" duration="1053000" />
     </task>
     <task id="LOCAL-00001" summary="update TIVEE">
       <created>1629191480717</created>
@@ -148,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704180163898</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update information">
+      <created>1704181800348</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1704181800348</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
