@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3c6fb17-b39d-4fac-a38f-19f85c3c1e66" name="Default Changelist" comment="update avatar">
-      <change afterPath="$PROJECT_DIR$/assets/css/publications-no-dark-mode.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/publications.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/style-no-dark-mode.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/files/CV_of_Xiangtong.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/files/curriculum_vitae.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/favicon-dark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/teaser_example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/teaser_example_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/favicon-switcher.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/scale.fix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index_2.html" afterDir="false" />
+    <list default="true" id="d3c6fb17-b39d-4fac-a38f-19f85c3c1e66" name="Default Changelist" comment="update information">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +70,7 @@
       <workItem from="1703142761693" duration="645000" />
       <workItem from="1703150147998" duration="5645000" />
       <workItem from="1703228368481" duration="25000" />
-      <workItem from="1703924348908" duration="14238000" />
+      <workItem from="1703924348908" duration="14559000" />
     </task>
     <task id="LOCAL-00001" summary="update TIVEE">
       <created>1629191480717</created>
@@ -149,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698752467612</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update information">
+      <created>1703951539961</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1703951539961</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +168,7 @@
     <MESSAGE value="update image and introduction" />
     <MESSAGE value="update paper" />
     <MESSAGE value="update avatar" />
-    <option name="LAST_COMMIT_MESSAGE" value="update avatar" />
+    <MESSAGE value="update information" />
+    <option name="LAST_COMMIT_MESSAGE" value="update information" />
   </component>
 </project>
